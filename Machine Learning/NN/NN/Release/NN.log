@@ -1,0 +1,11 @@
+﻿  NN.cpp
+c:\users\student\documents\visual studio 2015\projects\nn\nn\network.h(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+NN.cpp(50): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コード生成しています。
+  0 of 1812 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  NN.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\NN\Release\NN.exe
+  NN.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\NN\Release\NN.pdb (Full PDB)
