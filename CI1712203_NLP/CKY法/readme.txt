@@ -1,31 +1,31 @@
-�y�v���O�������zCKY.cpp
-�y����ҁz��K��
-�y������z2017�N4��19��(��)
-�y�A����zMail:brave1031@gmail.com
+【プログラム名】CKY.cpp
+【制作者】川尻諒
+【制作日】2017年4月19日(水)
+【連絡先】Mail:brave1031@gmail.com
           Phone:080-6355-6361
-�y�J�����z�����J����:Visual Studio 2015
-            �J������:C++
+【開発環境】統合開発環境:Visual Studio 2015
+            開発言語:C++
 
-�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\�\
-�E�͂��߂�
-�@CKY.cpp�́C���͕��͂�CKY�@�ō\����͂��邽�߂̃v���O�����ł��D
-�@Windows 10��ł̓���͊m�F�ς݂ł��D
+―――――――――――――――――――――――――――――――――――
+・はじめに
+　CKY.cppは，入力文章をCKY法で構文解析するためのプログラムです．
+　Windows 10上での動作は確認済みです．
 
-�E�t�@�C���\��
-�@CKY.cpp	(�\�[�X�R�[�h)
-�@readme.txt	(�{�t�@�C��)
+・ファイル構成
+　CKY.cpp	(ソースコード)
+　readme.txt	(本ファイル)
 
-�E�g�p���@
-�@CKY.cpp���R���p�C�����C�������ꂽCKY.exe���_�u���N���b�N�����
-�@�R�}���h�v�����v�g�������オ��CCKY�@�ɂ���ē���ꂽ�\����͂�
-�@���ʂ�S���ŕ\������܂��D
+・使用方法
+　CKY.cppをコンパイルし，生成されたCKY.exeをダブルクリックすると
+　コマンドプロンプトが立ち上がり，CKY法によって得られた構文解析の
+　結果がS式で表示されます．
 
-�E�⑫
-�@Visual Studio 2015�ŃR���\�[���A�v���P�[�V�����Ƃ��Đ��삵�����߁C
-�@���̊J�����ł̓R���p�C���G���[�ƂȂ�\��������܂��D
-�@���̏ꍇ�C�˓c��������K��PC��Ŏ��ۂɃA�v���P�[�V�����𓮍삳���Ă���
-�@�l�q���������܂��D
+・補足
+　Visual Studio 2015でコンソールアプリケーションとして制作したため，
+　他の開発環境ではコンパイルエラーとなる可能性があります．
+　その場合，川尻のPC上で実際にアプリケーションを動作させている
+　様子を見せられます．
 
 
 
--�ȏ�-
+-以上-
