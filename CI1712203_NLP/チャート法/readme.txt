@@ -1,31 +1,31 @@
-yƒvƒƒOƒ‰ƒ€–¼zCHART.cpp
-y§ìŽÒzìK—È
-y§ì“úz2017”N5ŒŽ3“ú(…)
-y˜A—æzMail:brave1031@gmail.com
+ã€ãƒ—ãƒ­ã‚°ãƒ©ãƒ åã€‘CHART.cpp
+ã€åˆ¶ä½œè€…ã€‘å·å°»è«’
+ã€åˆ¶ä½œæ—¥ã€‘2017å¹´5æœˆ3æ—¥(æ°´)
+ã€é€£çµ¡å…ˆã€‘Mail:brave1031@gmail.com
           Phone:080-6355-6361
-yŠJ”­ŠÂ‹«z“‡ŠJ”­ŠÂ‹«:Visual Studio 2015
-            ŠJ”­Œ¾Œê:C++
+ã€é–‹ç™ºç’°å¢ƒã€‘çµ±åˆé–‹ç™ºç’°å¢ƒ:Visual Studio 2015
+            é–‹ç™ºè¨€èªž:C++
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-E‚Í‚¶‚ß‚É
-@CHART.cpp‚ÍC“ü—Í•¶Í‚ðƒ`ƒƒ[ƒg–@‚Å\•¶‰ðÍ‚·‚é‚½‚ß‚ÌƒvƒƒOƒ‰ƒ€‚Å‚·D
-@Windows 10ã‚Å‚Ì“®ì‚ÍŠm”FÏ‚Ý‚Å‚·D
+â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•
+ãƒ»ã¯ã˜ã‚ã«
+ã€€CHART.cppã¯ï¼Œå…¥åŠ›æ–‡ç« ã‚’ãƒãƒ£ãƒ¼ãƒˆæ³•ã§æ§‹æ–‡è§£æžã™ã‚‹ãŸã‚ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã§ã™ï¼Ž
+ã€€Windows 10ä¸Šã§ã®å‹•ä½œã¯ç¢ºèªæ¸ˆã¿ã§ã™ï¼Ž
 
-Eƒtƒ@ƒCƒ‹\¬
-@CHART.cpp	(ƒ\[ƒXƒR[ƒh)
-@readme.txt	(–{ƒtƒ@ƒCƒ‹)
+ãƒ»ãƒ•ã‚¡ã‚¤ãƒ«æ§‹æˆ
+ã€€CHART.cpp	(ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰)
+ã€€readme.txt	(æœ¬ãƒ•ã‚¡ã‚¤ãƒ«)
 
-EŽg—p•û–@
-@CHART.cpp‚ðƒRƒ“ƒpƒCƒ‹‚µC¶¬‚³‚ê‚½CHART.exe‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN‚·‚é‚Æ
-@ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ª—§‚¿ã‚ª‚èCƒ`ƒƒ[ƒg–@‚É‚æ‚Á‚Ä“¾‚ç‚ê‚½\•¶‰ðÍ‚Ì
-@Œ‹‰Ê‚ªSŽ®‚Å•\Ž¦‚³‚ê‚Ü‚·D
+ãƒ»ä½¿ç”¨æ–¹æ³•
+ã€€CHART.cppã‚’ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã—ï¼Œç”Ÿæˆã•ã‚ŒãŸCHART.exeã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã¨
+ã€€ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆãŒç«‹ã¡ä¸ŠãŒã‚Šï¼Œãƒãƒ£ãƒ¼ãƒˆæ³•ã«ã‚ˆã£ã¦å¾—ã‚‰ã‚ŒãŸæ§‹æ–‡è§£æžã®
+ã€€çµæžœãŒSå¼ã§è¡¨ç¤ºã•ã‚Œã¾ã™ï¼Ž
 
-E•â‘«
-@Visual Studio 2015‚ÅƒRƒ“ƒ\[ƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Æ‚µ‚Ä§ì‚µ‚½‚½‚ßC
-@‘¼‚ÌŠJ”­ŠÂ‹«‚Å‚ÍƒRƒ“ƒpƒCƒ‹ƒGƒ‰[‚Æ‚È‚é‰Â”\«‚ª‚ ‚è‚Ü‚·D
-@‚»‚Ìê‡C’Ë“cŒ¤‹†ŽºìK‚ÌPCã‚ÅŽÀÛ‚ÉƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ð“®ì‚³‚¹‚Ä‚¢‚é
-@—lŽq‚ðŒ©‚¹‚ç‚ê‚Ü‚·D
+ãƒ»è£œè¶³
+ã€€Visual Studio 2015ã§ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã¨ã—ã¦åˆ¶ä½œã—ãŸãŸã‚ï¼Œ
+ã€€ä»–ã®é–‹ç™ºç’°å¢ƒã§ã¯ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã‚¨ãƒ©ãƒ¼ã¨ãªã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ï¼Ž
+ã€€ãã®å ´åˆï¼Œå·å°»ã®PCä¸Šã§å®Ÿéš›ã«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’å‹•ä½œã•ã›ã¦ã„ã‚‹
+ã€€æ§˜å­ã‚’è¦‹ã›ã‚‰ã‚Œã¾ã™ï¼Ž
 
 
 
--ˆÈã-
+-ä»¥ä¸Š-
